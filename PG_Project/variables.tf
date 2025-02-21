@@ -15,7 +15,7 @@ variable "grafana_instance" {
 variable "vpc_id" {
   description = "ID of the VPC"
   type        = string
-  default     = "vpc-07a79aac0f0c9ecbe"
+  default     = "vpc-03ec2d2921cf9b819"
 }
 
 # Variable for security group name of Grafana
